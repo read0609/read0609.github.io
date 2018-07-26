@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Sky&#39;s blog</title>
   
-  
+  <subtitle>have fun</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://read0609.github.io/"/>
   <updated>2018-07-25T09:04:02.335Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://read0609.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Ellen</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2018/07/25/test-1/"/>
-    <id>http://yoursite.com/2018/07/25/test-1/</id>
+    <link href="http://read0609.github.io/2018/07/25/test-1/"/>
+    <id>http://read0609.github.io/2018/07/25/test-1/</id>
     <published>2018-07-25T09:04:02.000Z</published>
     <updated>2018-07-25T09:04:02.335Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2018/07/25/test/"/>
-    <id>http://yoursite.com/2018/07/25/test/</id>
+    <link href="http://read0609.github.io/2018/07/25/test/"/>
+    <id>http://read0609.github.io/2018/07/25/test/</id>
     <published>2018-07-25T08:28:29.000Z</published>
     <updated>2018-07-25T08:28:29.075Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/07/25/hello-world/"/>
-    <id>http://yoursite.com/2018/07/25/hello-world/</id>
+    <link href="http://read0609.github.io/2018/07/25/hello-world/"/>
+    <id>http://read0609.github.io/2018/07/25/hello-world/</id>
     <published>2018-07-25T08:24:22.525Z</published>
     <updated>2018-07-25T08:24:22.525Z</updated>
     
