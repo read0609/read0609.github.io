@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://read0609.github.io/"/>
-  <updated>2018-07-25T09:04:02.335Z</updated>
+  <updated>2018-07-26T08:05:55.663Z</updated>
   <id>http://read0609.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>index</title>
+    <link href="http://read0609.github.io/2018/07/26/index/"/>
+    <id>http://read0609.github.io/2018/07/26/index/</id>
+    <published>2018-07-26T08:05:55.000Z</published>
+    <updated>2018-07-26T08:05:55.663Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
